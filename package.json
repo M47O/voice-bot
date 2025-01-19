@@ -25,6 +25,7 @@
     "discord-player": "^6.6.10",
     "discord.js": "^14.15.3",
     "dotenv": "^16.4.5",
+    "elevenlabs": "^1.50.2",
     "libsodium-wrappers": "^0.7.13"
   }
 }
